@@ -1,4 +1,4 @@
-pragma solidity ; // A Complétet
+pragma solidity ; // A Compléter
 import ; // A Compléter
 
 contract CocobondECE is usingProvable {
@@ -21,7 +21,9 @@ contract CocobondECE is usingProvable {
     }
     
     function convert(int bondId)public payable{
-       
+       //
+       //A compléter
+       //
     }
 
    function __callback(bytes32 _myid,
@@ -32,6 +34,8 @@ contract CocobondECE is usingProvable {
    }
 
     function updatePrice()public payable returns (bool){
-      
+       //
+       //A compléter
+       //
     }
 }
